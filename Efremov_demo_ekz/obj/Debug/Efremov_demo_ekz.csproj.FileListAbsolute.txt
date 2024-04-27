@@ -1,0 +1,11 @@
+C:\Users\it-student.MEPHI3.001\source\repos\Efremov_demo_ekz\Efremov_demo_ekz\bin\Debug\Efremov_demo_ekz.exe.config
+C:\Users\it-student.MEPHI3.001\source\repos\Efremov_demo_ekz\Efremov_demo_ekz\bin\Debug\Efremov_demo_ekz.exe
+C:\Users\it-student.MEPHI3.001\source\repos\Efremov_demo_ekz\Efremov_demo_ekz\bin\Debug\Efremov_demo_ekz.pdb
+C:\Users\it-student.MEPHI3.001\source\repos\Efremov_demo_ekz\Efremov_demo_ekz\obj\Debug\Efremov_demo_ekz.csprojResolveAssemblyReference.cache
+C:\Users\it-student.MEPHI3.001\source\repos\Efremov_demo_ekz\Efremov_demo_ekz\obj\Debug\Efremov_demo_ekz.Catalog.resources
+C:\Users\it-student.MEPHI3.001\source\repos\Efremov_demo_ekz\Efremov_demo_ekz\obj\Debug\Efremov_demo_ekz.Authorization.resources
+C:\Users\it-student.MEPHI3.001\source\repos\Efremov_demo_ekz\Efremov_demo_ekz\obj\Debug\Efremov_demo_ekz.Properties.Resources.resources
+C:\Users\it-student.MEPHI3.001\source\repos\Efremov_demo_ekz\Efremov_demo_ekz\obj\Debug\Efremov_demo_ekz.csproj.GenerateResource.cache
+C:\Users\it-student.MEPHI3.001\source\repos\Efremov_demo_ekz\Efremov_demo_ekz\obj\Debug\Efremov_demo_ekz.csproj.CoreCompileInputs.cache
+C:\Users\it-student.MEPHI3.001\source\repos\Efremov_demo_ekz\Efremov_demo_ekz\obj\Debug\Efremov_demo_ekz.exe
+C:\Users\it-student.MEPHI3.001\source\repos\Efremov_demo_ekz\Efremov_demo_ekz\obj\Debug\Efremov_demo_ekz.pdb
